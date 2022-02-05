@@ -36,6 +36,6 @@ id | Dungeon name | Название данжа
 [3739](/guides/3739.js) | Red Refuge | Лагерь повстанцев
 [9770](/guides/9770.js) | Ruinous Manor | Руины Абнукты
 [9780](/guides/9780.js) | Velik's Hold (5-Person) | Вход в катакомбы Велики
-[3781](/guides/3781.js) | Velik's Sanctuary | Святилище Велики
+[9781](/guides/9781.js) | Velik's Sanctuary | Святилище Велики
 [9970](/guides/9970.js) | Ruinous Manor (Hard) | Руины Кошмарной Абнукты
 [9982](/guides/9982.js) | Grotto of Lost Souls (Hard) | Мастерская Леандра (сложно)
