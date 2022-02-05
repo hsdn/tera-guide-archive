@@ -46,7 +46,7 @@ id | Dungeon name | Название данжа
 
 id | Dungeon name | Название данжа
 --- | --- | ---
-3027 | [Бессмертный воин] Forbidden Arena [Hagufna] | Арена безумия
+3027 | Forbidden Arena [Hagufna] | [Бессмертный воин] Арена безумия
 [3032](https://github.com/hsdn/tera-guide/blob/master/guides/3032.js) | Akalath Quarantine (Guide) | [Тренировка] Секретное подземелье крепости Берарк
 [3036](https://github.com/hsdn/tera-guide/blob/master/guides/3036.js) | Sky Cruiser (Hard) | Небесный крейсер (сложно)
 [3037](https://github.com/hsdn/tera-guide/blob/master/guides/3037.js) | Bahaar's Sanctum (Guide) | [Тренировка] Святилище Бахаара
