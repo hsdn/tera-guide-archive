@@ -2,7 +2,7 @@
 
 Repository of archived Tera Guide files.
 
-Actual Tera Guide files: https://github.com/hsdn/tera-guide-archive/tree/master/guides
+Actual Tera Guide files: https://github.com/hsdn/tera-guide/tree/master/guides
 
 ## List of available files
 
