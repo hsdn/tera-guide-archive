@@ -54,15 +54,15 @@ id | Dungeon name | Название данжа
 [3042](https://github.com/hsdn/tera-guide/blob/master/guides/3042.js) | Gardan's Trial | Место казни (Подземелье испытаний)
 [3043](https://github.com/hsdn/tera-guide/blob/master/guides/3043.js) | Harnovog's Trial | Крепость Тенебриса (Подземелье испытаний)
 [3046](https://github.com/hsdn/tera-guide/blob/master/guides/3046.js) | Rogash's Trial | Лаборатория слияния (Подземелье испытаний)
-3047* | Hall of the Argon Queen | Обитель возрожденной Шандры Манайи
+~~3047~~ | Hall of the Argon Queen | Обитель возрожденной Шандры Манайи
 [3105](https://github.com/hsdn/tera-guide/blob/master/guides/3105.js) | Лаборатория Слияния | Fusion Laboratory
 [3108](https://github.com/hsdn/tera-guide/blob/master/guides/3108.js) | Cursed Antaroth's Abyss | Проклятый Омут Антароса
-3109* | Ледяной трон | Ice Throne
-3209* | Ice Throne (Hard) | Ледяной трон (сложно)
+~~3109~~ | Ice Throne | Ледяной трон
+~~3209~~ | Ice Throne (Hard) | Ледяной трон (сложно)
 [7011](https://github.com/hsdn/tera-guide/blob/master/guides/7011.js) | Shadow of the Gutrends (Guardian) | Живодеры и черная тень (хранитель)
 [7015](https://github.com/hsdn/tera-guide/blob/master/guides/7015.js) | Escape from Balder's Refuge (Guardian) | Операция "Спасти Убежище Балдера" (хранитель)
 9068 | Shadow Sanguinary (Hard) | Убежище Дуриона (сложно)
-9794* | Thaumetal Refinery | Лаборатория Сайрекса
+~~9794~~ | Thaumetal Refinery | Лаборатория Сайрекса
 9920 | Antaroth's Abyss (Hard) | Омут Антароса (сложно)
 
 Actual Tera Guide files: https://github.com/hsdn/tera-guide/tree/master/guides
