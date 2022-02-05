@@ -31,12 +31,15 @@ id | Dungeon name | Название данжа
 [9044](/guides/9044.js) | Bahaar's Sanctum | Святилище Бахаара
 [9053](/guides/9053.js) | Kezzel's Gorge | Ущелье Кеззела
 [9056](/guides/9056.js) | Timescape (Hard) | Хроноплоскость (сложно)
+[9067](/guides/9067.js) | Demokron Factory (Hard) | Лаборатория Берна (сложно)
 [9070](/guides/9070.js) | Manglemire | Замок Парадоксов
+[9720](/guides/9720.js) | Antaroth's Abyss | Омут Антароса
 [9735](/guides/9735.js) | RK-9 Kennel | Ангар RK-9
 [3739](/guides/3739.js) | Red Refuge | Лагерь повстанцев
 [9770](/guides/9770.js) | Ruinous Manor | Руины Абнукты
 [9780](/guides/9780.js) | Velik's Hold (5-Person) | Вход в катакомбы Велики
 [9781](/guides/9781.js) | Velik's Sanctuary | Святилище Велики
+[9782](/guides/9782.js) | Grotto of Lost Souls | Мастерская Леандра
 [9970](/guides/9970.js) | Ruinous Manor (Hard) | Руины Кошмарной Абнукты
 [9981](/guides/9981.js) | Velik's Sanctuary (Hard) | Разрушенное Святилище Велики
 [9982](/guides/9982.js) | Grotto of Lost Souls (Hard) | Мастерская Леандра (сложно)
