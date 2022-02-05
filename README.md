@@ -38,4 +38,5 @@ id | Dungeon name | Название данжа
 [9780](/guides/9780.js) | Velik's Hold (5-Person) | Вход в катакомбы Велики
 [9781](/guides/9781.js) | Velik's Sanctuary | Святилище Велики
 [9970](/guides/9970.js) | Ruinous Manor (Hard) | Руины Кошмарной Абнукты
+[9981](/guides/9981.js) | Velik's Sanctuary (Hard) | Разрушенное Святилище Велики
 [9982](/guides/9982.js) | Grotto of Lost Souls (Hard) | Мастерская Леандра (сложно)
