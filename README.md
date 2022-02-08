@@ -18,7 +18,6 @@ id | Dungeon name | Название данжа
 [3104](/guides/3104.js) | Catalepticon | Сонный паралич Лукмии
 [3106](/guides/3106.js) | Killing Grounds | Место казни
 [3107](/guides/3107.js) | Desolarus Testing Grounds | Испытательный полигон Бьюрндена
-[3126](/guides/3126.js) | Corrupted Skynest (Hard) | Логово Келсаика (сложно)
 [3201](/guides/3201.js) | Gossamer Vault (Hard) | Гнездо сверкающей Паркин
 [3202](/guides/3202.js) | Draakon Arena (Hard) | Командный центр (сложно)
 [3203](/guides/3203.js) | Forbidden Arena [Nightmare Undying Warlord] | [Бессмертный] Арена безумия
@@ -57,7 +56,8 @@ id | Dungeon name | Название данжа
 [3105](https://github.com/hsdn/tera-guide/blob/master/guides/3105.js) | Fusion Laboratory | Лаборатория Слияния
 [3108](https://github.com/hsdn/tera-guide/blob/master/guides/3108.js) | Cursed Antaroth's Abyss | Проклятый Омут Антароса
 ~~3109~~ | Ice Throne | Ледяной трон
-~~3209~~ | Ice Throne (Hard) | Ледяной трон (сложно)
+[3126](https://github.com/hsdn/tera-guide/blob/master/guides/3126.js) | Corrupted Skynest (Hard) | Логово Келсаика (сложно)
+~~3209~~ | Chaos Ice Throne | Ледяной трон Хаоса
 [7011](https://github.com/hsdn/tera-guide/blob/master/guides/7011.js) | Shadow of the Gutrends (Guardian) | Живодеры и черная тень (хранитель)
 [7015](https://github.com/hsdn/tera-guide/blob/master/guides/7015.js) | Escape from Balder's Refuge (Guardian) | Операция "Спасти Убежище Балдера" (хранитель)
 [9068](https://github.com/hsdn/tera-guide/blob/master/guides/9068.js) | Shadow Sanguinary (Hard) | Убежище Дуриона (сложно)
