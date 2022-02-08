@@ -12,7 +12,6 @@ id | Dungeon name | Название данжа
 [3030](/guides/3030.js) | Commander's Residence | Старая резиденция
 [3034](/guides/3034.js) | Rampaging RK-9 Kennel | Ангар RK-9 (сложно)
 [3041](/guides/3041.js) | Damned Citadel | Проклятая крепость Тенебриса
-[3044](/guides/3044.js) | Stormed Citadel | Захваченная крепость Тенебриса
 [3101](/guides/3101.js) | Gossamer Vault | Гнездо Паркин
 [3102](/guides/3102.js) | Draakon Arena | Командный центр
 [3103](/guides/3103.js) | Forbidden Arena [Undying Warlord] | [Этерния] Арена безумия
@@ -40,19 +39,19 @@ id | Dungeon name | Название данжа
 [9782](/guides/9782.js) | Grotto of Lost Souls | Мастерская Леандра
 [9970](/guides/9970.js) | Ruinous Manor (Hard) | Руины Кошмарной Абнукты
 [9981](/guides/9981.js) | Velik's Sanctuary (Hard) | Разрушенное Святилище Велики
-[9982](/guides/9982.js) | Grotto of Lost Souls (Hard) | Мастерская Леандра (сложно)
 
 ## List of actual files (v114.01)
 
 id | Dungeon name | Название данжа
 --- | --- | ---
-3027 | Forbidden Arena [Hagufna] | [Бессмертный воин] Арена безумия
+[3027](https://github.com/hsdn/tera-guide/blob/master/guides/3027.js) | Forbidden Arena [Hagufna] | [Бессмертный воин] Арена безумия
 [3032](https://github.com/hsdn/tera-guide/blob/master/guides/3032.js) | Akalath Quarantine (Guide) | [Тренировка] Секретное подземелье крепости Берарк
 [3036](https://github.com/hsdn/tera-guide/blob/master/guides/3036.js) | Sky Cruiser (Hard) | Небесный крейсер (сложно)
 [3037](https://github.com/hsdn/tera-guide/blob/master/guides/3037.js) | Bahaar's Sanctum (Guide) | [Тренировка] Святилище Бахаара
 [3040](https://github.com/hsdn/tera-guide/blob/master/guides/3040.js) | Lumikan's Trial | Сонный паралич Лукмии (Подземелье испытаний)
 [3042](https://github.com/hsdn/tera-guide/blob/master/guides/3042.js) | Gardan's Trial | Место казни (Подземелье испытаний)
 [3043](https://github.com/hsdn/tera-guide/blob/master/guides/3043.js) | Harnovog's Trial | Крепость Тенебриса (Подземелье испытаний)
+[3044](https://github.com/hsdn/tera-guide/blob/master/guides/3044.js) | Stormed Citadel | Захваченная крепость Тенебриса
 [3046](https://github.com/hsdn/tera-guide/blob/master/guides/3046.js) | Rogash's Trial | Лаборатория слияния (Подземелье испытаний)
 ~~3047~~ | Hall of the Argon Queen | Обитель возрожденной Шандры Манайи
 [3105](https://github.com/hsdn/tera-guide/blob/master/guides/3105.js) | Fusion Laboratory | Лаборатория Слияния
@@ -61,8 +60,9 @@ id | Dungeon name | Название данжа
 ~~3209~~ | Ice Throne (Hard) | Ледяной трон (сложно)
 [7011](https://github.com/hsdn/tera-guide/blob/master/guides/7011.js) | Shadow of the Gutrends (Guardian) | Живодеры и черная тень (хранитель)
 [7015](https://github.com/hsdn/tera-guide/blob/master/guides/7015.js) | Escape from Balder's Refuge (Guardian) | Операция "Спасти Убежище Балдера" (хранитель)
-9068 | Shadow Sanguinary (Hard) | Убежище Дуриона (сложно)
+[9068](https://github.com/hsdn/tera-guide/blob/master/guides/9068.js) | Shadow Sanguinary (Hard) | Убежище Дуриона (сложно)
 ~~9794~~ | Thaumetal Refinery | Лаборатория Сайрекса
-9920 | Antaroth's Abyss (Hard) | Омут Антароса (сложно)
+[9920](https://github.com/hsdn/tera-guide/blob/master/guides/9920.js) | Antaroth's Abyss (Hard) | Омут Антароса (сложно)
+[9982](https://github.com/hsdn/tera-guide/blob/master/guides/9982.js) | Grotto of Lost Souls (Hard) | Мастерская Леандра (сложно)
 
 Actual Tera Guide files: https://github.com/hsdn/tera-guide/tree/master/guides
