@@ -39,7 +39,7 @@ id | Dungeon name | Название данжа
 [9970](/guides/9970.js) | Ruinous Manor (Hard) | Руины Кошмарной Абнукты
 [9981](/guides/9981.js) | Velik's Sanctuary (Hard) | Разрушенное Святилище Велики
 
-## List of actual files (v114.01)
+## List of actual files (v114.02)
 
 id | Dungeon name | Название данжа
 --- | --- | ---
@@ -52,7 +52,9 @@ id | Dungeon name | Название данжа
 [3043](https://github.com/hsdn/tera-guide/blob/master/guides/3043.js) | Harnovog's Trial | Крепость Тенебриса (Подземелье испытаний)
 [3044](https://github.com/hsdn/tera-guide/blob/master/guides/3044.js) | Stormed Citadel | Захваченная крепость Тенебриса
 [3046](https://github.com/hsdn/tera-guide/blob/master/guides/3046.js) | Rogash's Trial | Лаборатория слияния (Подземелье испытаний)
-~~3047~~ | Hall of the Argon Queen | Обитель возрожденной Шандры Манайи
+~~3047~~ | Hall of the Argon Queen (Hard) | Обитель Шандры Манайи (сложно)
+~~3055~~ | Hall of the Argon Queen (Hard, Solo) | Обитель Шандры Манайи (сложно, соло)
+~~3056~~ | Ice Throne (Solo) | Ледяной трон (соло)
 [3105](https://github.com/hsdn/tera-guide/blob/master/guides/3105.js) | Fusion Laboratory | Лаборатория Слияния
 [3108](https://github.com/hsdn/tera-guide/blob/master/guides/3108.js) | Cursed Antaroth's Abyss | Проклятый Омут Антароса
 ~~3109~~ | Ice Throne | Ледяной трон
