@@ -10,7 +10,9 @@ id | Dungeon name | Название данжа
 [3023](/guides/3023.js) | Akalath Quarantine | Секретное подземелье крепости Берарк
 [3026](/guides/3026.js) | Corrupted Skynest | Логово Келсаика
 [3030](/guides/3030.js) | Commander's Residence | Старая резиденция
+[3032](/guides/3032.js) | Akalath Quarantine (Guide) | [Тренировка] Секретное подземелье крепости Берарк
 [3034](/guides/3034.js) | Rampaging RK-9 Kennel | Ангар RK-9 (сложно)
+[3037](/guides/3037.js) | Bahaar's Sanctum (Guide) | [Тренировка] Святилище Бахаара
 [3041](/guides/3041.js) | Damned Citadel | Проклятая крепость Тенебриса
 [3044](/guides/3044.js) | Stormed Citadel | Захваченная крепость Тенебриса
 [3101](/guides/3101.js) | Gossamer Vault | Гнездо Паркин
