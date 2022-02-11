@@ -48,9 +48,7 @@ id | Dungeon name | Название данжа
 id | Dungeon name | Название данжа
 --- | --- | ---
 [3027](https://github.com/hsdn/tera-guide/blob/master/guides/3027.js) | Forbidden Arena [Hagufna] | [Бессмертный воин] Арена безумия
-[3032](https://github.com/hsdn/tera-guide/blob/master/guides/3032.js) | Akalath Quarantine (Guide) | [Тренировка] Секретное подземелье крепости Берарк
 [3036](https://github.com/hsdn/tera-guide/blob/master/guides/3036.js) | Sky Cruiser (Hard) | Небесный крейсер (сложно)
-[3037](https://github.com/hsdn/tera-guide/blob/master/guides/3037.js) | Bahaar's Sanctum (Guide) | [Тренировка] Святилище Бахаара
 [3040](https://github.com/hsdn/tera-guide/blob/master/guides/3040.js) | Lumikan's Trial | Сонный паралич Лукмии (Подземелье испытаний)
 [3042](https://github.com/hsdn/tera-guide/blob/master/guides/3042.js) | Gardan's Trial | Место казни (Подземелье испытаний)
 [3043](https://github.com/hsdn/tera-guide/blob/master/guides/3043.js) | Harnovog's Trial | Крепость Тенебриса (Подземелье испытаний)
