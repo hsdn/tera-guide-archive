@@ -58,7 +58,7 @@ id | Dungeon name | Название данжа
 ~~3056~~ | Ice Throne (Solo) | Ледяной трон (соло)
 [3105](https://github.com/hsdn/tera-guide/blob/master/guides/3105.js) | Fusion Laboratory | Лаборатория Слияния
 [3108](https://github.com/hsdn/tera-guide/blob/master/guides/3108.js) | Cursed Antaroth's Abyss | Проклятый Омут Антароса
-~~3109~~ | Ice Throne | Ледяной трон
+[3109](https://github.com/hsdn/tera-guide/blob/master/guides/3109.js) | Ice Throne | Ледяной трон
 [3126](https://github.com/hsdn/tera-guide/blob/master/guides/3126.js) | Corrupted Skynest (Hard) | Логово Бессмертного Келсаика
 ~~3209~~ | Chaos Ice Throne | Ледяной трон Хаоса
 [7011](https://github.com/hsdn/tera-guide/blob/master/guides/7011.js) | Shadow of the Gutrends (Guardian) | Живодеры и черная тень (хранитель)
