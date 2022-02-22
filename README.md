@@ -60,7 +60,7 @@ id | Dungeon name | Название данжа
 [3108](https://github.com/hsdn/tera-guide/blob/master/guides/3108.js) | Cursed Antaroth's Abyss | Проклятый Омут Антароса
 [3109](https://github.com/hsdn/tera-guide/blob/master/guides/3109.js) | Ice Throne | Ледяной трон
 [3126](https://github.com/hsdn/tera-guide/blob/master/guides/3126.js) | Corrupted Skynest (Hard) | Логово Бессмертного Келсаика
-~~3209~~ | Chaos Ice Throne | Ледяной трон Хаоса
+[3209](https://github.com/hsdn/tera-guide/blob/master/guides/3209.js) | Chaos Ice Throne | Ледяной трон Хаоса
 [7011](https://github.com/hsdn/tera-guide/blob/master/guides/7011.js) | Shadow of the Gutrends (Guardian) | Живодеры и черная тень (хранитель)
 [7015](https://github.com/hsdn/tera-guide/blob/master/guides/7015.js) | Escape from Balder's Refuge (Guardian) | Операция "Спасти Убежище Балдера" (хранитель)
 [9068](https://github.com/hsdn/tera-guide/blob/master/guides/9068.js) | Shadow Sanguinary (Hard) | Убежище Дуриона (сложно)
