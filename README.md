@@ -64,6 +64,7 @@ id | Dungeon name | Название данжа
 [9056](https://github.com/hsdn/tera-guide/blob/master/guides/9056.js) | Timescape (Hard) | Хроноплоскость (сложно)
 [9735](https://github.com/hsdn/tera-guide/blob/master/guides/9735.js) | RK-9 Kennel | Ангар RK-9
 [3739](https://github.com/hsdn/tera-guide/blob/master/guides/3739.js) | Red Refuge | Лагерь повстанцев
+[9759](https://github.com/hsdn/tera-guide/blob/master/guides/9759.js) | Forsaken Island (Hard) | Остров Мертвых (сложно)
 [9780](https://github.com/hsdn/tera-guide/blob/master/guides/9780.js) | Velik's Hold (5-Person) | Вход в катакомбы Велики
 [9781](https://github.com/hsdn/tera-guide/blob/master/guides/9781.js) | Velik's Sanctuary | Святилище Велики
 [9981](https://github.com/hsdn/tera-guide/blob/master/guides/9981.js) | Velik's Sanctuary (Hard) | Разрушенное Святилище Велики
