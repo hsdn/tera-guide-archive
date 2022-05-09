@@ -25,7 +25,6 @@ id | Dungeon name | Название данжа
 [3205](/guides/3205.js) | Cursed Fusion Laboratory | Заколдованная лаборатория слияния
 [3206](/guides/3206.js) | Crimson Killing Grounds | Окровавленное место казни
 [9053](/guides/9053.js) | Kezzel's Gorge | Ущелье Кеззела
-[9070](/guides/9070.js) | Manglemire | Замок Парадоксов
 [9720](/guides/9720.js) | Antaroth's Abyss | Омут Антароса
 [9770](/guides/9770.js) | Ruinous Manor | Руины Абнукты
 [9782](/guides/9782.js) | Grotto of Lost Souls | Мастерская Леандра
@@ -61,6 +60,7 @@ id | Dungeon name | Название данжа
 [9044](https://github.com/hsdn/tera-guide/blob/master/guides/9044.js) | Bahaar's Sanctum | Святилище Бахаара
 [9056](https://github.com/hsdn/tera-guide/blob/master/guides/9056.js) | Timescape (Hard) | Хроноплоскость (сложно)
 [9067](https://github.com/hsdn/tera-guide/blob/master/guides/9067.js) | Demokron Factory (Hard) | Лаборатория Берна (сложно)
+[9070](https://github.com/hsdn/tera-guide/blob/master/guides/9070.js) | Manglemire | Замок Парадоксов
 [9735](https://github.com/hsdn/tera-guide/blob/master/guides/9735.js) | RK-9 Kennel | Ангар RK-9
 [3739](https://github.com/hsdn/tera-guide/blob/master/guides/3739.js) | Red Refuge | Лагерь повстанцев
 [9759](https://github.com/hsdn/tera-guide/blob/master/guides/9759.js) | Forsaken Island (Hard) | Остров Мертвых (сложно)
