@@ -66,6 +66,7 @@ id | Dungeon name | Название данжа
 [9759](https://github.com/hsdn/tera-guide/blob/master/guides/9759.js) | Forsaken Island (Hard) | Остров Мертвых (сложно)
 [9780](https://github.com/hsdn/tera-guide/blob/master/guides/9780.js) | Velik's Hold (5-Person) | Вход в катакомбы Велики
 [9781](https://github.com/hsdn/tera-guide/blob/master/guides/9781.js) | Velik's Sanctuary | Святилище Велики
+[9935](https://github.com/hsdn/tera-guide/blob/master/guides/9935.js) | RK-9 Kennel (Hard) | Ангар совершенного RK-9
 [9970](https://github.com/hsdn/tera-guide/blob/master/guides/9970.js) | Ruinous Manor (Hard) | Руины Кошмарной Абнукты
 [9981](https://github.com/hsdn/tera-guide/blob/master/guides/9981.js) | Velik's Sanctuary (Hard) | Разрушенное Святилище Велики
 [9982](https://github.com/hsdn/tera-guide/blob/master/guides/9982.js) | Grotto of Lost Souls (Hard) | Мастерская Леандра (сложно)
