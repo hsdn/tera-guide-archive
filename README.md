@@ -57,6 +57,7 @@ id | Dungeon name | Название данжа
 [3023](https://github.com/hsdn/tera-guide/blob/master/guides/3023.js) | Akalath Quarantine | Секретное подземелье крепости Берарк
 [3026](https://github.com/hsdn/tera-guide/blob/master/guides/3026.js) | Corrupted Skynest | Логово Келсаика
 [3201](https://github.com/hsdn/tera-guide/blob/master/guides/3201.js) | Gossamer Vault (Hard) | Гнездо сверкающей Паркин
+[9027](https://github.com/hsdn/tera-guide/blob/master/guides/9027.js) | Manaya's Core (Hard) | Обитель Манайи (сложно)
 [9044](https://github.com/hsdn/tera-guide/blob/master/guides/9044.js) | Bahaar's Sanctum | Святилище Бахаара
 [9056](https://github.com/hsdn/tera-guide/blob/master/guides/9056.js) | Timescape (Hard) | Хроноплоскость (сложно)
 [9067](https://github.com/hsdn/tera-guide/blob/master/guides/9067.js) | Demokron Factory (Hard) | Лаборатория Берна (сложно)
@@ -70,5 +71,6 @@ id | Dungeon name | Название данжа
 [9970](https://github.com/hsdn/tera-guide/blob/master/guides/9970.js) | Ruinous Manor (Hard) | Руины Кошмарной Абнукты
 [9981](https://github.com/hsdn/tera-guide/blob/master/guides/9981.js) | Velik's Sanctuary (Hard) | Разрушенное Святилище Велики
 [9982](https://github.com/hsdn/tera-guide/blob/master/guides/9982.js) | Grotto of Lost Souls (Hard) | Мастерская Леандра (сложно)
+[9983](https://github.com/hsdn/tera-guide/blob/master/guides/9983.js) | Dark Reach Citadel (Hard) | Крепость Темного Тенебриса
 
 Actual Tera Guide files: https://github.com/hsdn/tera-guide/tree/master/guides
