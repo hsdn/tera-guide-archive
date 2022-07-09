@@ -20,7 +20,6 @@ id | Dungeon name | Название данжа
 [3047](/guides/3047.js) | Hall of the Argon Queen (Hard) | Обитель Шандры Манайи (сложно)
 [3101](/guides/3101.js) | Gossamer Vault | Гнездо Паркин
 [3102](/guides/3102.js) | Draakon Arena | Командный центр
-[3103](/guides/3103.js) | Forbidden Arena [Undying Warlord] | [Этерния] Арена безумия
 [3104](/guides/3104.js) | Catalepticon | Сонный паралич Лукмии
 [3105](/guides/3105.js) | Fusion Laboratory | Лаборатория Слияния
 [3106](/guides/3106.js) | Killing Grounds | Место казни
@@ -28,7 +27,6 @@ id | Dungeon name | Название данжа
 [3108](/guides/3108.js) | Cursed Antaroth's Abyss | Проклятый Омут Антароса
 [3109](/guides/3109.js) | Ice Throne | Ледяной трон
 [3202](/guides/3202.js) | Draakon Arena (Hard) | Командный центр (сложно)
-[3203](/guides/3203.js) | Forbidden Arena [Nightmare Undying Warlord] | [Бессмертный] Арена безумия
 [3204](/guides/3204.js) | Catalepticon (Hard) | Сонный паралич Лукмии (сложно)
 [3205](/guides/3205.js) | Cursed Fusion Laboratory | Заколдованная лаборатория слияния
 [3206](/guides/3206.js) | Crimson Killing Grounds | Окровавленное место казни
@@ -46,8 +44,10 @@ id | Dungeon name | Название данжа
 [3026](https://github.com/hsdn/tera-guide/blob/master/guides/3026.js) | Corrupted Skynest | Логово Келсаика
 [3027](https://github.com/hsdn/tera-guide/blob/master/guides/3027.js) | Forbidden Arena [Hagufna] | [Бессмертный воин] Арена безумия
 [3036](https://github.com/hsdn/tera-guide/blob/master/guides/3036.js) | Sky Cruiser (Hard) | Небесный крейсер (сложно)
+[3103](https://github.com/hsdn/tera-guide/blob/master/guides/3103.js) | Forbidden Arena [Undying Warlord] | [Этерния] Арена безумия
 [3126](https://github.com/hsdn/tera-guide/blob/master/guides/3126.js) | Corrupted Skynest (Hard) | Логово Бессмертного Келсаика
 [3201](https://github.com/hsdn/tera-guide/blob/master/guides/3201.js) | Gossamer Vault (Hard) | Гнездо сверкающей Паркин
+[3203](https://github.com/hsdn/tera-guide/blob/master/guides/3203.js) | Forbidden Arena [Nightmare Undying Warlord] | [Бессмертный] Арена безумия
 [7011](https://github.com/hsdn/tera-guide/blob/master/guides/7011.js) | Shadow of the Gutrends (Guardian) | Живодеры и черная тень (хранитель)
 [7015](https://github.com/hsdn/tera-guide/blob/master/guides/7015.js) | Escape from Balder's Refuge (Guardian) | Операция "Спасти Убежище Балдера" (хранитель)
 [9027](https://github.com/hsdn/tera-guide/blob/master/guides/9027.js) | Manaya's Core (Hard) | Обитель Манайи (сложно)
