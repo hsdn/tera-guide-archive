@@ -51,7 +51,7 @@ id | Dungeon name | Название данжа
 [9794](https://github.com/hsdn/tera-guide/blob/master/guides/9794.js) | Thaumetal Refinery | Лаборатория Сайрекса
 [9920](https://github.com/hsdn/tera-guide/blob/master/guides/9920.js) | Antaroth's Abyss (Hard) | Омут Бездушного Антароса
 
-## List of files (v92.04)
+## List of files (v92.04/v100.02)
 id | Dungeon name | Название данжа
 --- | --- | ---
 [3023](https://github.com/hsdn/tera-guide/blob/master/guides/3023.js) | Akalath Quarantine | Секретное подземелье крепости Берарк
@@ -59,11 +59,13 @@ id | Dungeon name | Название данжа
 [3201](https://github.com/hsdn/tera-guide/blob/master/guides/3201.js) | Gossamer Vault (Hard) | Гнездо сверкающей Паркин
 [9027](https://github.com/hsdn/tera-guide/blob/master/guides/9027.js) | Manaya's Core (Hard) | Обитель Манайи (сложно)
 [9044](https://github.com/hsdn/tera-guide/blob/master/guides/9044.js) | Bahaar's Sanctum | Святилище Бахаара
+[9054](https://github.com/hsdn/tera-guide/blob/master/guides/9054.js) | Bathysmal Rise (Hard) | Глубинный Храм (сложно)
 [9056](https://github.com/hsdn/tera-guide/blob/master/guides/9056.js) | Timescape (Hard) | Хроноплоскость (сложно)
 [9067](https://github.com/hsdn/tera-guide/blob/master/guides/9067.js) | Demokron Factory (Hard) | Лаборатория Берна (сложно)
 [9070](https://github.com/hsdn/tera-guide/blob/master/guides/9070.js) | Manglemire | Замок Парадоксов
 [9735](https://github.com/hsdn/tera-guide/blob/master/guides/9735.js) | RK-9 Kennel | Ангар RK-9
 [3739](https://github.com/hsdn/tera-guide/blob/master/guides/3739.js) | Red Refuge | Лагерь повстанцев
+[9754](https://github.com/hsdn/tera-guide/blob/master/guides/9754.js) | Bathysmal Rise | Глубинный Храм
 [9759](https://github.com/hsdn/tera-guide/blob/master/guides/9759.js) | Forsaken Island (Hard) | Остров Мертвых (сложно)
 [9780](https://github.com/hsdn/tera-guide/blob/master/guides/9780.js) | Velik's Hold (5-Person) | Вход в катакомбы Велики
 [9781](https://github.com/hsdn/tera-guide/blob/master/guides/9781.js) | Velik's Sanctuary | Святилище Велики
