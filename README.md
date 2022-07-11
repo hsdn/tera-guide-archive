@@ -33,7 +33,6 @@ id | Dungeon name | Название данжа
 [3209](/guides/3209.js) | Chaos Ice Throne | Ледяной трон Хаоса
 [9053](/guides/9053.js) | Kezzel's Gorge | Ущелье Кеззела
 [9720](/guides/9720.js) | Antaroth's Abyss | Омут Антароса
-[9770](/guides/9770.js) | Ruinous Manor | Руины Абнукты
 [9782](/guides/9782.js) | Grotto of Lost Souls | Мастерская Леандра
 
 ## List of files
@@ -61,6 +60,7 @@ id | Dungeon name | Название данжа
 [3739](https://github.com/hsdn/tera-guide/blob/master/guides/3739.js) | Red Refuge | Лагерь повстанцев
 [9754](https://github.com/hsdn/tera-guide/blob/master/guides/9754.js) | Bathysmal Rise | Глубинный Храм
 [9759](https://github.com/hsdn/tera-guide/blob/master/guides/9759.js) | Forsaken Island (Hard) | Остров Мертвых (сложно)
+[9770](https://github.com/hsdn/tera-guide/blob/master/guides/9770.js) | Ruinous Manor | Руины Абнукты
 [9780](https://github.com/hsdn/tera-guide/blob/master/guides/9780.js) | Velik's Hold (5-Person) | Вход в катакомбы Велики
 [9781](https://github.com/hsdn/tera-guide/blob/master/guides/9781.js) | Velik's Sanctuary | Святилище Велики
 [9794](https://github.com/hsdn/tera-guide/blob/master/guides/9794.js) | Thaumetal Refinery | Лаборатория Сайрекса
