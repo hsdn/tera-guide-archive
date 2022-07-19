@@ -53,12 +53,14 @@ id | Dungeon name | Название данжа
 [9044](https://github.com/hsdn/tera-guide/blob/master/guides/9044.js) | Bahaar's Sanctum | Святилище Бахаара
 [9054](https://github.com/hsdn/tera-guide/blob/master/guides/9054.js) | Bathysmal Rise (Hard) | Глубинный Храм (сложно)
 [9056](https://github.com/hsdn/tera-guide/blob/master/guides/9056.js) | Timescape (Hard) | Хроноплоскость (сложно)
+[9057](https://github.com/hsdn/tera-guide/blob/master/guides/9057.js) | Akeron's Inferno (Hard) | Акероново пекло (сложно)
 [9067](https://github.com/hsdn/tera-guide/blob/master/guides/9067.js) | Demokron Factory (Hard) | Лаборатория Берна (сложно)
 [9068](https://github.com/hsdn/tera-guide/blob/master/guides/9068.js) | Shadow Sanguinary (Hard) | Убежище Дуриона (сложно)
 [9070](https://github.com/hsdn/tera-guide/blob/master/guides/9070.js) | Manglemire | Замок Парадоксов
 [9735](https://github.com/hsdn/tera-guide/blob/master/guides/9735.js) | RK-9 Kennel | Ангар RK-9
 [3739](https://github.com/hsdn/tera-guide/blob/master/guides/3739.js) | Red Refuge | Лагерь повстанцев
 [9754](https://github.com/hsdn/tera-guide/blob/master/guides/9754.js) | Bathysmal Rise | Глубинный Храм
+[9757](https://github.com/hsdn/tera-guide/blob/master/guides/9757.js) | Akeron's Inferno | Акероново пекло
 [9759](https://github.com/hsdn/tera-guide/blob/master/guides/9759.js) | Forsaken Island (Hard) | Остров Мертвых (сложно)
 [9770](https://github.com/hsdn/tera-guide/blob/master/guides/9770.js) | Ruinous Manor | Руины Абнукты
 [9780](https://github.com/hsdn/tera-guide/blob/master/guides/9780.js) | Velik's Hold (5-Person) | Вход в катакомбы Велики
