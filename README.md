@@ -57,6 +57,7 @@ id | Dungeon name | Название данжа
 [9067](https://github.com/hsdn/tera-guide/blob/master/guides/9067.js) | Demokron Factory (Hard) | Лаборатория Берна (сложно)
 [9068](https://github.com/hsdn/tera-guide/blob/master/guides/9068.js) | Shadow Sanguinary (Hard) | Убежище Дуриона (сложно)
 [9070](https://github.com/hsdn/tera-guide/blob/master/guides/9070.js) | Manglemire | Замок Парадоксов
+[9716](https://github.com/hsdn/tera-guide/blob/master/guides/9716.js) | Sky Cruiser Endeavor | Крейсер "Стремление"
 [9735](https://github.com/hsdn/tera-guide/blob/master/guides/9735.js) | RK-9 Kennel | Ангар RK-9
 [3739](https://github.com/hsdn/tera-guide/blob/master/guides/3739.js) | Red Refuge | Лагерь повстанцев
 [9754](https://github.com/hsdn/tera-guide/blob/master/guides/9754.js) | Bathysmal Rise | Глубинный Храм
@@ -66,6 +67,7 @@ id | Dungeon name | Название данжа
 [9780](https://github.com/hsdn/tera-guide/blob/master/guides/9780.js) | Velik's Hold (5-Person) | Вход в катакомбы Велики
 [9781](https://github.com/hsdn/tera-guide/blob/master/guides/9781.js) | Velik's Sanctuary | Святилище Велики
 [9794](https://github.com/hsdn/tera-guide/blob/master/guides/9794.js) | Thaumetal Refinery | Лаборатория Сайрекса
+[9916](https://github.com/hsdn/tera-guide/blob/master/guides/9916.js) | Sky Cruiser Endeavor (Hard) | Крейсер "Стремление" (Сложно)
 [9920](https://github.com/hsdn/tera-guide/blob/master/guides/9920.js) | Antaroth's Abyss (Hard) | Омут Бездушного Антароса
 [9935](https://github.com/hsdn/tera-guide/blob/master/guides/9935.js) | RK-9 Kennel (Hard) | Ангар совершенного RK-9
 [9970](https://github.com/hsdn/tera-guide/blob/master/guides/9970.js) | Ruinous Manor (Hard) | Руины Кошмарной Абнукты
