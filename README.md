@@ -18,7 +18,6 @@ id | Dungeon name | Название данжа
 [3044](/guides/3044.js) | Stormed Citadel | Захваченная крепость Тенебриса
 [3046](/guides/3046.js) | Rogash's Trial | Лаборатория слияния (Подземелье испытаний)
 [3047](/guides/3047.js) | Hall of the Argon Queen (Hard) | Обитель Шандры Манайи (сложно)
-[3101](/guides/3101.js) | Gossamer Vault | Гнездо Паркин
 [3104](/guides/3104.js) | Catalepticon | Сонный паралич Лукмии
 [3105](/guides/3105.js) | Fusion Laboratory | Лаборатория Слияния
 [3106](/guides/3106.js) | Killing Grounds | Место казни
@@ -41,6 +40,7 @@ id | Dungeon name | Название данжа
 [3026](https://github.com/hsdn/tera-guide/blob/master/guides/3026.js) | Corrupted Skynest | Логово Келсаика
 [3027](https://github.com/hsdn/tera-guide/blob/master/guides/3027.js) | Forbidden Arena [Hagufna] | [Бессмертный воин] Арена безумия
 [3036](https://github.com/hsdn/tera-guide/blob/master/guides/3036.js) | Sky Cruiser (Hard) | Небесный крейсер (сложно)
+[3101](https://github.com/hsdn/tera-guide/blob/master/guides/3101.js) | Gossamer Vault | Гнездо Паркин
 [3102](https://github.com/hsdn/tera-guide/blob/master/guides/3102.js) | Draakon Arena | Командный центр
 [3103](https://github.com/hsdn/tera-guide/blob/master/guides/3103.js) | Forbidden Arena [Undying Warlord] | [Этерния] Арена безумия
 [3126](https://github.com/hsdn/tera-guide/blob/master/guides/3126.js) | Corrupted Skynest (Hard) | Логово Бессмертного Келсаика
