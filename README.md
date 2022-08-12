@@ -8,9 +8,7 @@ id | Dungeon name | Название данжа
 --- | --- | ---
 [3020](/guides/3020.js) | Sea of Honor | Золотая чешуя
 [3030](/guides/3030.js) | Commander's Residence | Старая резиденция
-[3032](/guides/3032.js) | Akalath Quarantine (Guide) | [Тренировка] Секретное подземелье крепости Берарк
 [3034](/guides/3034.js) | Rampaging RK-9 Kennel | Ангар RK-9 (сложно)
-[3037](/guides/3037.js) | Bahaar's Sanctum (Guide) | [Тренировка] Святилище Бахаара
 [3040](/guides/3040.js) | Lumikan's Trial | Сонный паралич Лукмии (Подземелье испытаний)
 [3041](/guides/3041.js) | Damned Citadel | Проклятая крепость Тенебриса
 [3042](/guides/3042.js) | Gardan's Trial | Место казни (Подземелье испытаний)
@@ -29,7 +27,6 @@ id | Dungeon name | Название данжа
 [3206](/guides/3206.js) | Crimson Killing Grounds | Окровавленное место казни
 [3209](/guides/3209.js) | Chaos Ice Throne | Ледяной трон Хаоса
 [9053](/guides/9053.js) | Kezzel's Gorge | Ущелье Кеззела
-[9720](/guides/9720.js) | Antaroth's Abyss | Омут Антароса
 
 ## List of files
 
@@ -38,7 +35,9 @@ id | Dungeon name | Название данжа
 [3023](https://github.com/hsdn/tera-guide/blob/master/guides/3023.js) | Akalath Quarantine | Секретное подземелье крепости Берарк
 [3026](https://github.com/hsdn/tera-guide/blob/master/guides/3026.js) | Corrupted Skynest | Логово Келсаика
 [3027](https://github.com/hsdn/tera-guide/blob/master/guides/3027.js) | Forbidden Arena [Hagufna] | [Бессмертный воин] Арена безумия
+[3032](https://github.com/hsdn/tera-guide/blob/master/guides/3032.js) | Akalath Quarantine (Guide) | [Тренировка] Секретное подземелье крепости Берарк
 [3036](https://github.com/hsdn/tera-guide/blob/master/guides/3036.js) | Sky Cruiser (Hard) | Небесный крейсер (сложно)
+[3037](https://github.com/hsdn/tera-guide/blob/master/guides/3037.js) | Bahaar's Sanctum (Guide) | [Тренировка] Святилище Бахаара
 [3101](https://github.com/hsdn/tera-guide/blob/master/guides/3101.js) | Gossamer Vault | Гнездо Паркин
 [3102](https://github.com/hsdn/tera-guide/blob/master/guides/3102.js) | Draakon Arena | Командный центр
 [3103](https://github.com/hsdn/tera-guide/blob/master/guides/3103.js) | Forbidden Arena [Undying Warlord] | [Этерния] Арена безумия
@@ -57,6 +56,7 @@ id | Dungeon name | Название данжа
 [9068](https://github.com/hsdn/tera-guide/blob/master/guides/9068.js) | Shadow Sanguinary (Hard) | Убежище Дуриона (сложно)
 [9070](https://github.com/hsdn/tera-guide/blob/master/guides/9070.js) | Manglemire | Замок Парадоксов
 [9716](https://github.com/hsdn/tera-guide/blob/master/guides/9716.js) | Sky Cruiser Endeavor | Крейсер "Стремление"
+[9720](https://github.com/hsdn/tera-guide/blob/master/guides/9720.js) | Antaroth's Abyss | Омут Антароса
 [9735](https://github.com/hsdn/tera-guide/blob/master/guides/9735.js) | RK-9 Kennel | Ангар RK-9
 [3739](https://github.com/hsdn/tera-guide/blob/master/guides/3739.js) | Red Refuge | Лагерь повстанцев
 [9754](https://github.com/hsdn/tera-guide/blob/master/guides/9754.js) | Bathysmal Rise | Глубинный Храм
