@@ -30,7 +30,6 @@ id | Dungeon name | Название данжа
 [3209](/guides/3209.js) | Chaos Ice Throne | Ледяной трон Хаоса
 [9053](/guides/9053.js) | Kezzel's Gorge | Ущелье Кеззела
 [9720](/guides/9720.js) | Antaroth's Abyss | Омут Антароса
-[9782](/guides/9782.js) | Grotto of Lost Souls | Мастерская Леандра
 
 ## List of files
 
@@ -66,6 +65,7 @@ id | Dungeon name | Название данжа
 [9770](https://github.com/hsdn/tera-guide/blob/master/guides/9770.js) | Ruinous Manor | Руины Абнукты
 [9780](https://github.com/hsdn/tera-guide/blob/master/guides/9780.js) | Velik's Hold (5-Person) | Вход в катакомбы Велики
 [9781](https://github.com/hsdn/tera-guide/blob/master/guides/9781.js) | Velik's Sanctuary | Святилище Велики
+[9782](https://github.com/hsdn/tera-guide/blob/master/guides/9782.js) | Grotto of Lost Souls | Мастерская Леандра
 [9794](https://github.com/hsdn/tera-guide/blob/master/guides/9794.js) | Thaumetal Refinery | Лаборатория Сайрекса
 [9916](https://github.com/hsdn/tera-guide/blob/master/guides/9916.js) | Sky Cruiser Endeavor (Hard) | Крейсер "Стремление" (Сложно)
 [9920](https://github.com/hsdn/tera-guide/blob/master/guides/9920.js) | Antaroth's Abyss (Hard) | Омут Бездушного Антароса
