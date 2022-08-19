@@ -52,6 +52,7 @@ id | Dungeon name | Название данжа
 [9054](https://github.com/hsdn/tera-guide/blob/master/guides/9054.js) | Bathysmal Rise (Hard) | Глубинный Храм (сложно)
 [9056](https://github.com/hsdn/tera-guide/blob/master/guides/9056.js) | Timescape (Hard) | Хроноплоскость (сложно)
 [9057](https://github.com/hsdn/tera-guide/blob/master/guides/9057.js) | Akeron's Inferno (Hard) | Акероново пекло (сложно)
+[9066](https://github.com/hsdn/tera-guide/blob/master/guides/9066.js) | Demon's Wheel | Рулетка Демороса
 [9067](https://github.com/hsdn/tera-guide/blob/master/guides/9067.js) | Demokron Factory (Hard) | Лаборатория Берна (сложно)
 [9068](https://github.com/hsdn/tera-guide/blob/master/guides/9068.js) | Shadow Sanguinary (Hard) | Убежище Дуриона (сложно)
 [9070](https://github.com/hsdn/tera-guide/blob/master/guides/9070.js) | Manglemire | Замок Парадоксов
