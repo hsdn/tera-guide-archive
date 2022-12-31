@@ -56,6 +56,7 @@ id | Dungeon name | Название данжа
 [9067](https://github.com/hsdn/tera-guide/blob/master/guides/9067.js) | Demokron Factory (Hard) | Лаборатория Берна (сложно)
 [9068](https://github.com/hsdn/tera-guide/blob/master/guides/9068.js) | Shadow Sanguinary (Hard) | Убежище Дуриона (сложно)
 [9070](https://github.com/hsdn/tera-guide/blob/master/guides/9070.js) | Manglemire | Замок Парадоксов
+[9710](https://github.com/hsdn/tera-guide/blob/master/guides/9710.js) | Broken Prison | Разрушенный алтарь Лакана
 [9716](https://github.com/hsdn/tera-guide/blob/master/guides/9716.js) | Sky Cruiser Endeavor | Крейсер "Стремление"
 [9720](https://github.com/hsdn/tera-guide/blob/master/guides/9720.js) | Antaroth's Abyss | Омут Антароса
 [9735](https://github.com/hsdn/tera-guide/blob/master/guides/9735.js) | RK-9 Kennel | Ангар RK-9
