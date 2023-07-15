@@ -24,7 +24,6 @@ id | Dungeon name | Название данжа
 [3205](/guides/3205.js) | Cursed Fusion Laboratory | Заколдованная лаборатория слияния
 [3206](/guides/3206.js) | Crimson Killing Grounds | Окровавленное место казни
 [3209](/guides/3209.js) | Chaos Ice Throne | Ледяной трон Хаоса
-[9053](/guides/9053.js) | Kezzel's Gorge | Ущелье Кеззела
 
 ## List of files
 
@@ -49,6 +48,7 @@ id | Dungeon name | Название данжа
 [7015](https://github.com/hsdn/tera-guide/blob/master/guides/7015.js) | Escape from Balder's Refuge (Guardian) | Операция "Спасти Убежище Балдера" (хранитель)
 [9027](https://github.com/hsdn/tera-guide/blob/master/guides/9027.js) | Manaya's Core (Hard) | Обитель Манайи (сложно)
 [9044](https://github.com/hsdn/tera-guide/blob/master/guides/9044.js) | Bahaar's Sanctum | Святилище Бахаара
+[9053](https://github.com/hsdn/tera-guide/blob/master/guides/9053.js) | Kezzel's Gorge | Ущелье Кеззела
 [9054](https://github.com/hsdn/tera-guide/blob/master/guides/9054.js) | Bathysmal Rise (Hard) | Глубинный Храм (сложно)
 [9056](https://github.com/hsdn/tera-guide/blob/master/guides/9056.js) | Timescape (Hard) | Хроноплоскость (сложно)
 [9057](https://github.com/hsdn/tera-guide/blob/master/guides/9057.js) | Akeron's Inferno (Hard) | Акероново пекло (сложно)
@@ -62,16 +62,20 @@ id | Dungeon name | Название данжа
 [9735](https://github.com/hsdn/tera-guide/blob/master/guides/9735.js) | RK-9 Kennel | Ангар RK-9
 [3739](https://github.com/hsdn/tera-guide/blob/master/guides/3739.js) | Red Refuge | Лагерь повстанцев
 [9754](https://github.com/hsdn/tera-guide/blob/master/guides/9754.js) | Bathysmal Rise | Глубинный Храм
+[9756](https://github.com/hsdn/tera-guide/blob/master/guides/9756.js) | Timescape | Хроноплоскость
 [9757](https://github.com/hsdn/tera-guide/blob/master/guides/9757.js) | Akeron's Inferno | Акероново пекло
 [9759](https://github.com/hsdn/tera-guide/blob/master/guides/9759.js) | Forsaken Island (Hard) | Остров Мертвых (сложно)
+[9768](https://github.com/hsdn/tera-guide/blob/master/guides/9768.js) | Shadow Sanguinary | Убежище Дуриона
 [9770](https://github.com/hsdn/tera-guide/blob/master/guides/9770.js) | Ruinous Manor | Руины Абнукты
 [9780](https://github.com/hsdn/tera-guide/blob/master/guides/9780.js) | Velik's Hold (5-Person) | Вход в катакомбы Велики
 [9781](https://github.com/hsdn/tera-guide/blob/master/guides/9781.js) | Velik's Sanctuary | Святилище Велики
 [9782](https://github.com/hsdn/tera-guide/blob/master/guides/9782.js) | Grotto of Lost Souls | Мастерская Леандра
+[9783](https://github.com/hsdn/tera-guide/blob/master/guides/9783.js) | Dark Reach Citadel | Крепость Тенебриса
 [9794](https://github.com/hsdn/tera-guide/blob/master/guides/9794.js) | Thaumetal Refinery | Лаборатория Сайрекса
 [9916](https://github.com/hsdn/tera-guide/blob/master/guides/9916.js) | Sky Cruiser Endeavor (Hard) | Крейсер "Стремление" (Сложно)
 [9920](https://github.com/hsdn/tera-guide/blob/master/guides/9920.js) | Antaroth's Abyss (Hard) | Омут Бездушного Антароса
 [9935](https://github.com/hsdn/tera-guide/blob/master/guides/9935.js) | RK-9 Kennel (Hard) | Ангар совершенного RK-9
+[9939](https://github.com/hsdn/tera-guide/blob/master/guides/9939.js) | Red Refuge (Hard) | Секретный лагерь повстанцев
 [9970](https://github.com/hsdn/tera-guide/blob/master/guides/9970.js) | Ruinous Manor (Hard) | Руины Кошмарной Абнукты
 [9981](https://github.com/hsdn/tera-guide/blob/master/guides/9981.js) | Velik's Sanctuary (Hard) | Разрушенное Святилище Велики
 [9982](https://github.com/hsdn/tera-guide/blob/master/guides/9982.js) | Grotto of Lost Souls (Hard) | Мастерская Леандра (сложно)
