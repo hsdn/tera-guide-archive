@@ -77,6 +77,7 @@ id | Dungeon name | Название данжа
 [9935](https://github.com/hsdn/tera-guide/blob/master/guides/9935.js) | RK-9 Kennel (Hard) | Ангар совершенного RK-9
 [9939](https://github.com/hsdn/tera-guide/blob/master/guides/9939.js) | Red Refuge (Hard) | Секретный лагерь повстанцев
 [9970](https://github.com/hsdn/tera-guide/blob/master/guides/9970.js) | Ruinous Manor (Hard) | Руины Кошмарной Абнукты
+[9980](https://github.com/hsdn/tera-guide/blob/master/guides/9980.js) | Velik's Hold (Hard) | Вход в разрушенные катакомбы Велики
 [9981](https://github.com/hsdn/tera-guide/blob/master/guides/9981.js) | Velik's Sanctuary (Hard) | Разрушенное Святилище Велики
 [9982](https://github.com/hsdn/tera-guide/blob/master/guides/9982.js) | Grotto of Lost Souls (Hard) | Мастерская Леандра (сложно)
 [9983](https://github.com/hsdn/tera-guide/blob/master/guides/9983.js) | Dark Reach Citadel (Hard) | Крепость Темного Тенебриса
