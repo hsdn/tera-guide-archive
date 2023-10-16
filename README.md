@@ -22,6 +22,7 @@ id | Dungeon name | Название данжа
 [3205](/guides/3205.js) | Cursed Fusion Laboratory | Заколдованная лаборатория слияния
 [3206](/guides/3206.js) | Crimson Killing Grounds | Окровавленное место казни
 [3209](/guides/3209.js) | Chaos Ice Throne | Ледяной трон Хаоса
+[9981](/guides/9981_vanilla.js) | Velik's Sanctuary (Hard) | Разрушенное Святилище Велики
 
 ## List of files
 
