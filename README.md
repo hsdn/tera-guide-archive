@@ -61,7 +61,7 @@ id | Dungeon name | Название данжа
 [9716](https://github.com/hsdn/tera-guide/blob/master/guides/9716.js) | Sky Cruiser Endeavor | Крейсер "Стремление"
 [9720](https://github.com/hsdn/tera-guide/blob/master/guides/9720.js) | Antaroth's Abyss | Омут Антароса
 [9735](https://github.com/hsdn/tera-guide/blob/master/guides/9735.js) | RK-9 Kennel | Ангар RK-9
-[3739](https://github.com/hsdn/tera-guide/blob/master/guides/3739.js) | Red Refuge | Лагерь повстанцев
+[9739](https://github.com/hsdn/tera-guide/blob/master/guides/9739.js) | Red Refuge | Лагерь повстанцев
 [9754](https://github.com/hsdn/tera-guide/blob/master/guides/9754.js) | Bathysmal Rise | Глубинный Храм
 [9756](https://github.com/hsdn/tera-guide/blob/master/guides/9756.js) | Timescape | Хроноплоскость
 [9757](https://github.com/hsdn/tera-guide/blob/master/guides/9757.js) | Akeron's Inferno | Акероново пекло
