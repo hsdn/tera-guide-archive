@@ -82,5 +82,6 @@ id | Dungeon name | Название данжа
 [9981](https://github.com/hsdn/tera-guide/blob/master/guides/9981.js) | Velik's Sanctuary (Hard) | Разрушенное Святилище Велики
 [9982](https://github.com/hsdn/tera-guide/blob/master/guides/9982.js) | Grotto of Lost Souls (Hard) | Мастерская Леандра (сложно)
 [9983](https://github.com/hsdn/tera-guide/blob/master/guides/9983.js) | Dark Reach Citadel (Hard) | Крепость Темного Тенебриса
+[9994](https://github.com/hsdn/tera-guide/blob/master/guides/9994.js) | Thaumetal Refinery (Hard) | Лаборатория Альфа-сайрекса
 
 Actual Tera Guide files: https://github.com/hsdn/tera-guide/tree/master/guides
