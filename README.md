@@ -49,6 +49,7 @@ id | Dungeon name | Название данжа
 [7015](https://github.com/hsdn/tera-guide/blob/master/guides/7015.js) | Escape from Balder's Refuge (Guardian) | Операция "Спасти Убежище Балдера" (хранитель)
 [9027](https://github.com/hsdn/tera-guide/blob/master/guides/9027.js) | Manaya's Core (Hard) | Обитель Манайи (сложно)
 [9044](https://github.com/hsdn/tera-guide/blob/master/guides/9044.js) | Bahaar's Sanctum | Святилище Бахаара
+[9050](https://github.com/hsdn/tera-guide/blob/master/guides/9050.js) | Rift's Edge (Hard) | Край Разлома (сложно)
 [9053](https://github.com/hsdn/tera-guide/blob/master/guides/9053.js) | Kezzel's Gorge | Ущелье Кеззела
 [9054](https://github.com/hsdn/tera-guide/blob/master/guides/9054.js) | Bathysmal Rise (Hard) | Глубинный Храм (сложно)
 [9056](https://github.com/hsdn/tera-guide/blob/master/guides/9056.js) | Timescape (Hard) | Хроноплоскость (сложно)
@@ -62,6 +63,7 @@ id | Dungeon name | Название данжа
 [9720](https://github.com/hsdn/tera-guide/blob/master/guides/9720.js) | Antaroth's Abyss | Омут Антароса
 [9735](https://github.com/hsdn/tera-guide/blob/master/guides/9735.js) | RK-9 Kennel | Ангар RK-9
 [9739](https://github.com/hsdn/tera-guide/blob/master/guides/9739.js) | Red Refuge | Лагерь повстанцев
+[9750](https://github.com/hsdn/tera-guide/blob/master/guides/9750.js) | Rift's Edge | Край Разлома
 [9754](https://github.com/hsdn/tera-guide/blob/master/guides/9754.js) | Bathysmal Rise | Глубинный Храм
 [9756](https://github.com/hsdn/tera-guide/blob/master/guides/9756.js) | Timescape | Хроноплоскость
 [9757](https://github.com/hsdn/tera-guide/blob/master/guides/9757.js) | Akeron's Inferno | Акероново пекло
