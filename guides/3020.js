@@ -252,7 +252,7 @@ module.exports = (dispatch, handlers, guide, lang) => {
 		//"s-3020-6103-202-0": [{ type: "text", sub_type: "message", message: 'Left swipe', "message_TW": "6103-202" }, { type: "spawn", func: "marker", args: [false, 0, 0, 100, 2000, true, null] }],
 		//"s-3020-6103-201-0": [{ type: "text", sub_type: "message", message: 'Left swipe', "message_TW": "6103-201" }, { type: "spawn", func: "marker", args: [false, 0, 0, 100, 2000, true, null] }],
 		"s-3020-2200-127-0": [{ type: "func", func: boss_mech_event, args: [127] }],
-		"s-3020-2200-128-0": [{ type: "text", sub_type: "message", message: "Uppercut (Knockup)", message_RU: "Черкаш (подлет)" }],
+		"s-3020-2200-128-0": [{ type: "text", sub_type: "message", message: "Uppercut (Knockup)", message_RU: "Черкаш (подлёт)" }],
 		"s-3020-2200-129-0": [
 			{ type: "text", sub_type: "message", message: "Hammer Toss ~ Skull", message_RU: "Полоса в цель" },
 			{ type: "spawn", func: "vector", args: [553, 90, 100, 0, 500, 200, 2000] },
